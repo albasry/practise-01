@@ -1,2 +1,5 @@
-# practise-01
-Experiments for fun :)
+# Practise 
+
+> Experiments for fun :)
+
+* Hello world, form local machine
